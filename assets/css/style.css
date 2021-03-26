@@ -241,13 +241,19 @@ h6 {
   top: 15px;
   z-index: 9998;
   border: 0;
-  background: none;
-  font-size: 24px;
+  /* background: none; */
+  background: #184d47;
+  font-size: 32px;
   transition: all 0.4s;
   outline: none !important;
   line-height: 1;
   cursor: pointer;
   text-align: right;
+  padding: 2px;
+}
+
+#header img {
+  margin-top: -10px !important;
 }
 
 .mobile-nav-toggle i {
