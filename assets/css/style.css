@@ -437,7 +437,7 @@ h6 {
   #hero .hero-img img {
     width: 80%;
   }
-  .heroH2 {
+  #hero .heroH2 {
     font-size: 20px;
     line-height: 30px;
   }
